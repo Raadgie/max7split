@@ -1,6 +1,6 @@
 # max7split
 
-**max7split** is a Lua module for controlling an 8-digit 7-segment LED display using the MAX7219 driver chip.  
+**max7split** is a Lua module for **NodeMCU (ESP8266/ESP32)** used to control an 8-digit 7-segment LED display with the MAX7219 driver chip.  
 It supports BCD decoding, decimal points, right-aligned rendering, and dual-segment display output (4+4 digits).
 
 ## Features
