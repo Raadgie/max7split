@@ -10,7 +10,7 @@ It supports BCD decoding, decimal points, right-aligned rendering, and dual-segm
 - Adjustable brightness (0x00–0x0F)
 - Clear entire display or one segment (left/right)
 - Shutdown and resume display operation
-- Decimal point support (e.g., `1.2`, `12.`)
+- Decimal point support (e.g., `1.2`)
 
 ## Installation
 
