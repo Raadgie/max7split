@@ -16,4 +16,4 @@ It supports BCD decoding, decimal points, right-aligned rendering, and dual-segm
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Raadgie/max7split.git
+git clone https://github.com/Raadgie/max7split-NodeMCU.git
